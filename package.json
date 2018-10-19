@@ -1,0 +1,25 @@
+{
+  "name": "@termos/termos",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Terminal based Operating System Emulator",
+  "main": "termos.js",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^4.19.1",
+    "webpack-cli": "^3.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skvoll/termOS.git"
+  },
+  "author": "david volkov <skvoll.skvoll@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skvoll/termOS/issues"
+  },
+  "homepage": "https://skvoll.github.com/termOS"
+}
